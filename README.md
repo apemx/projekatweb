@@ -22,11 +22,4 @@ Svaki od rolova ima razlicit view i funkcionalnost
     agent-moze da postavlja,edituje,brise nekretnine kao i da ih ispise u pdf/excel format ,moze da moze odgovora na zahteve i da vidi istoriju zahteva i omogucen mu je search po userima za zahteve
     admin-moze da upravlja korisnicima,nekretninama ,lokacijama ,tipovima nekretnina...
 
- 
 
-
-Projekat pokrecemo:
-php artisan migrate
-php artisan db:seed
-npm run dev  -neophodno
-php artisan serve
